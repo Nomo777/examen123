@@ -1,0 +1,20 @@
+/* Definimos las clases para cambiar el color de fondo */
+.rojo {
+    background-color: rgb(255, 146, 146);
+}
+
+.naranja {
+    background-color: rgb(255, 182, 123);
+}
+
+.amarillo {
+    background-color: rgb(255, 240, 157);
+}
+
+.verde {
+    background-color: rgb(146, 255, 146);
+}
+
+.azul {
+    background-color: rgb(148, 164, 255);
+}
